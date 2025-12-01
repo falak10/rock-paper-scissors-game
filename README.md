@@ -1,4 +1,4 @@
-# cpp-rock-paper-scissors-cli
+# cpp-rock-paper-scissors-game
 
 ## 📝 Description
 
